@@ -113,7 +113,7 @@ Aplikasi akan terbuka otomatis di browser pada `http://localhost:8501`. Pastikan
 
 **Mengakses prototype secara online (Streamlit Community Cloud):**
 
-🔗 [Link Prototype Streamlit](<akan diisi setelah deploy>)
+🔗 [Link Prototype Streamlit](<(https://jayainstitutewiarr.streamlit.app/)>)
 
 **Langkah deploy ke Streamlit Community Cloud:**
 
